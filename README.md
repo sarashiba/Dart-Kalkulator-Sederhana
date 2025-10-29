@@ -5,7 +5,7 @@ Shift akhir : C <br>
 
 Penjelasan code :
 
-Proyek ini adalah implementasi sederhana dari kalkulator empat fungsi dasar (+, -, *, /) yang berjalan sebagai aplikasi konsol (Command Line Interface - CLI) menggunakan bahasa pemrograman Dart. Proyek ini bertujuan untuk melatih dasar-dasar I/O dan *control flow* di Dart.
+Proyek ini adalah implementasi sederhana dari kalkulator empat fungsi dasar (+, -, *, /) yang berjalan sebagai aplikasi konsol (Command Line Interface - CLI) menggunakan bahasa pemrograman Dart.
 
 ## Fitur
 
@@ -16,7 +16,7 @@ Proyek ini adalah implementasi sederhana dari kalkulator empat fungsi dasar (+, 
 
 
 
-## 💻 Penjelasan Kode
+## Penjelasan Kode
 
 1.  **`import 'dart:io';`**
     Diperlukan untuk membaca input dari pengguna (`stdin.readLineSync()`) dan menulis output (`stdout.write()`).
